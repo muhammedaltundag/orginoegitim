@@ -64,8 +64,6 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-#### Samed Çetin
-
 Please read [CONTRIBUTING.md](link) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
@@ -74,11 +72,13 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Çağdaş Kurultay Kalkan** **SamedÇetin**- *Initial work* - [Orgino](https://github.com/cKurultayKalkan)
+* **Çağdaş Kurultay Kalkan** - *Initial work* - [Orgino](https://github.com/cKurultayKalkan)
 
 * **Yasir Kavraş** - *Initial work* - [Orgino](https://github.com/ykavras)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Samet Çetin** - *Initial work* - [Orgino](https://github.com/samedcetin)
+
+See also the list of [contributors](https://github.com/cKurultayKalkan/orginoegitim/contributors) who participated in this project.
 
 ## License
 
