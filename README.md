@@ -2,7 +2,7 @@
 
 One Paragraph of project description goes here
 
-ONUR TAÇ
+
 
 ## Getting Started
 
@@ -75,7 +75,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Çağdaş Kurultay Kalkan** - *Initial work* - [Orgino](https://github.com/cKurultayKalkan)
-
+* Onur TAÇ
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
