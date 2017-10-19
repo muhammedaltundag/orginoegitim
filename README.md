@@ -73,6 +73,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Çağdaş Kurultay Kalkan** - *Initial work* - [Orgino](https://github.com/cKurultayKalkan)
+* **Serhat Sait Pekediz** - *Initial work* - [Orgino](https://github.com/serhatsait)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -86,4 +87,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration
 * etc
 
-copyright by SerhatSait
