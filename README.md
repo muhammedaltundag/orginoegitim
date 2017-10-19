@@ -75,7 +75,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Çağdaş Kurultay Kalkan** - *Initial work* - [Orgino](https://github.com/cKurultayKalkan)
-* Onur TAÇ
+
+* **Onur Taç** - *Initial work* - [Orgino](https://github.com/onurtacc7)
+
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
