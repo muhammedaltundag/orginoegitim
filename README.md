@@ -78,7 +78,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Onur Taç** - *Initial work* - [Orgino](https://github.com/onurtacc7)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Yasir Kavraş** - *Initial work* - [Orgino](https://github.com/ykavras)
+
+* **Samet Çetin** - *Initial work* - [Orgino](https://github.com/samedcetin)
+
+See also the list of [contributors](https://github.com/cKurultayKalkan/orginoegitim/contributors) who participated in this project.
 
 ## License
 
