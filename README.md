@@ -2,6 +2,8 @@
 
 One Paragraph of project description goes here
 
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -73,6 +75,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Çağdaş Kurultay Kalkan** - *Initial work* - [Orgino](https://github.com/cKurultayKalkan)
+
+* **Onur Taç** - *Initial work* - [Orgino](https://github.com/onurtacc7)
 
 * **Yasir Kavraş** - *Initial work* - [Orgino](https://github.com/ykavras)
 
